@@ -1,0 +1,9 @@
+
+# Next.js build files  
+.next/  
+out/  
+.next/cache/ 
+node_modules/ 
+.next/ 
+.env
+coverage/
